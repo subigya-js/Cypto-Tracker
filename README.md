@@ -18,7 +18,7 @@ A CryptoTracker web application to track individual Crypto Currencies.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/github-profile-finder.git
+   git clone https://github.com/your-username/crypto-tracker.git
    ```
 
     ```bash
