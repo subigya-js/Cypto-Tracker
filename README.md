@@ -13,9 +13,7 @@ A CryptoTracker web application to track individual Crypto Currencies.
 - **Tailwind CSS:** Used for styling the user interface components.
 - **Crypto API:** Utilized to fetch Crypto Currencies data in tabular and line chart format.
 
-## Installation
-
-1. Clone the repository:
+## Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/crypto-tracker.git
@@ -30,23 +28,23 @@ A CryptoTracker web application to track individual Crypto Currencies.
    ```
 
   ```bash
-   npm install react-router-dom
+   npm i react-router-dom
    ```
 
   ```bash
-   npm install react-chartjs-2
+   npm i react-chartjs-2
    ```
 
   ```bash
-   npm install html-react-parser
+   npm i html-react-parser
    ```
 
   ```bash
-   npm install axios
+   npm i axios
    ```
 
   ```bash
-   npm install react-alice-carousel
+   npm i react-alice-carousel
    ```
 
    ```bash
@@ -56,9 +54,9 @@ A CryptoTracker web application to track individual Crypto Currencies.
 
 **Open your browser and navigate to http://localhost:3000.**
 
-**Enter a GitHub username in the search input and press Enter or click the search button.**
+**Enter a Crypto name or symbol in the search bar and press Enter.**
 
-**View the profile details of the GitHub user.**
+**View the crypto details of the line chart.**
 
 ## Contributing
 
