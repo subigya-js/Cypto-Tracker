@@ -29,9 +29,6 @@ A CryptoTracker web application to track individual Crypto Currencies.
    npm install
    ```
    
-   ```bash
-   npm install react-icons
-   ```
 
   ```bash
    npm install react-router-dom
