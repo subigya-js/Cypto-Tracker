@@ -11,7 +11,7 @@ A CryptoTracker web application to track individual Crypto Currencies.
 
 - **ReactJS:** Used for building the user interface and handling the application's state.
 - **Tailwind CSS:** Used for styling the user interface components.
-- **Crypto API:** Utilized to fetch GitHub user data based on the entered username.
+- **Crypto API:** Utilized to fetch Crypto Currencies data in tabular and line chart format.
 
 ## Installation
 
@@ -21,14 +21,13 @@ A CryptoTracker web application to track individual Crypto Currencies.
    git clone https://github.com/your-username/crypto-tracker.git
    ```
 
-    ```bash
-    cd crypto-tracker
-     ```
+   ```bash
+   cd crypto-tracker
+   ```
 
    ```bash
    npm install
    ```
-   
 
   ```bash
    npm install react-router-dom
