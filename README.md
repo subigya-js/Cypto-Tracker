@@ -22,7 +22,7 @@ A CryptoTracker web application to track individual Crypto Currencies.
    ```
 
     ```bash
-    cd github-profile-finder
+    cd crypto-tracker
      ```
 
    ```bash
