@@ -16,7 +16,7 @@ A CryptoTracker web application to track individual Crypto Currencies.
 ## Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/crypto-tracker.git
+   git clone https://github.com/subigya-js/crypto-tracker.git
    ```
 
    ```bash
